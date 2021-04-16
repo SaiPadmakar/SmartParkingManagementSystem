@@ -12,11 +12,11 @@ Now,let's have a look how this modules are further divided.
   3.Attendant details Module 
   4.Requests Module 
 So, in this way we are planning our project and if we get any new ideas, we will slightly modify like adding some other modules to make our project efficient.
-# Operating Environment
+  Operating Environment
 Programming Languages:Html,css,php
 IDE:Xampp
 Database:Mysql
-# Design and Implementation Constraints
+  Design and Implementation Constraints
   Design Constraints:
 Design mechanisms are limited to the capabilities of Html, php and Mysql DB. The user interface must be viewable on a monitor with a 1024x768 resolution or larger.
   Safety and Security Considerations:
