@@ -3,14 +3,14 @@
 • We are planning to create two portals - User Portal to book parking slots and Admin Portal to add parking slots, update the parking slot details and also to update the             details of attendants at parking slots.
 Now,let's have a look how this modules are further divided.
 # A.User Portal Module:
-# 1.Login Module 
-# 2.Slot booking Module 
-# 3.Logout Module 
+  1.Login Module 
+  2.Slot booking Module 
+  3.Logout Module 
 # B.Admin Portal Modules:
-# 1.Login Module
-# 2.Parking details Module 
-# 3.Attendant details Module 
-# 4.Requests Module 
+  1.Login Module
+  2.Parking details Module 
+  3.Attendant details Module 
+  4.Requests Module 
 So, in this way we are planning our project and if we get any new ideas, we will slightly modify like adding some other modules to make our project efficient.
 # Operating Environment
 Programming Languages:Html,css,php
