@@ -8,7 +8,7 @@
 
 **Place**: Microsoft Teams
 
-**Next Meeting**: 18-04-2021
+**Next Meeting**: 15-04-2021
 
 ## Agenda
 
