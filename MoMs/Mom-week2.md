@@ -1,4 +1,4 @@
-## Minutes of Meeting=
+## Minutes of Meeting
 **Meeting1**:
 
 **Date and Time**: 15-04-2021, 4:00 PM to: 15-04-2021, 6:30 PM ( 2 hr 30 m )
