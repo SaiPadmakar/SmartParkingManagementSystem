@@ -11,4 +11,4 @@
 |                           |                               |                             |                 |
 |Parking Slots              |Completed                      |April 18                     |Rohith           |
 |                           |                               |                             |                 |
-|Font and Styling           |Completed                      |April 18                     |Venkat           | 
+|Parking Slots              |Completed                      |April 18                     |Venkat           | 
